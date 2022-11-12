@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series>
+	<serie category="Uno">
+		<nombre>Violet Evergarden</nombre>
+		<genero>Drama</genero>
+			<caracteristicas>
+				<romantico>demaciado</romantico>
+				<sentimiento>Tristesa</sentimiento>
+			</caracteristicas>
+			<duracion>25 min por capitulo</duracion>
+	</serie>
+	<serie category="Dos">
+		<nombre>The crown</nombre>
+		<genero>Drama</genero>
+		<caracteristicas>
+			<romantico>No tanto</romantico>
+			<sentimiento>Desesperacion</sentimiento>
+		</caracteristicas>
+		<duracion>1 hora por capitulo</duracion>
+	</serie>
+	<serie category="Tres">
+		<nombre>Yo nunca</nombre>
+		<genero>Comedia,romance y drama</genero>
+		<caracteristicas>
+			<romantico>Normal</romantico>
+			<sentimiento>Felicidad</sentimiento>
+		</caracteristicas>
+		<duracion>30 min por capitulo</duracion>
+	</serie>
+	<serie category="cuatro">
+		<nombre>Glow Up</nombre>
+		<genero>Moda, maquillaje</genero>
+		<caracteristicas>
+			<romantico>No</romantico>
+			<sentimiento>Glamurosa</sentimiento>
+		</caracteristicas>
+		<duracion>30 min por capitulo</duracion>
+	</serie>
+	<serie category="cinco">
+		<nombre>Woo una abogada extraordinaria</nombre>
+		<genero>Romance</genero>
+		<caracteristicas>
+			<romantico>demaciado</romantico>
+			<sentimiento>Tristesa</sentimiento>
+		</caracteristicas>
+		<duracion>50 min por capitulo</duracion>
+	</serie>
+</series>
